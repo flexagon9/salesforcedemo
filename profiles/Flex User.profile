@@ -12,7 +12,7 @@
         <name>AddDirectMessageMembers</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <name>ApexRestServices</name>
     </userPermissions>
     <userPermissions>
@@ -28,7 +28,7 @@
         <name>ChatterEditOwnPost</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <name>ChatterFileLink</name>
     </userPermissions>
     <userPermissions>
@@ -60,7 +60,7 @@
         <name>EditTopics</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <name>EnableCommunityAppLauncher</name>
     </userPermissions>
     <userPermissions>
@@ -84,7 +84,7 @@
         <name>UseWebLink</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <name>ViewHelpLink</name>
     </userPermissions>
 </Profile>
