@@ -68,21 +68,21 @@
    <applicationVisibilities>
       <application>standard__Service</application>
       <default>false</default>
-      <visible>false</visible>
+      <visible>true</visible>
    </applicationVisibilities>
    <applicationVisibilities>
       <application>standard__ServiceConsole</application>
       <default>false</default>
-      <visible>false</visible>
+      <visible>true</visible>
    </applicationVisibilities>
    <applicationVisibilities>
       <application>standard__Sites</application>
       <default>false</default>
-      <visible>false</visible>
+      <visible>true</visible>
    </applicationVisibilities>
    <classAccesses>
       <apexClass>ChangePasswordController</apexClass>
-      <enabled>false</enabled>
+      <enabled>true</enabled>
    </classAccesses>
    <classAccesses>
       <apexClass>ChangePasswordControllerTest</apexClass>
@@ -90,7 +90,7 @@
    </classAccesses>
    <classAccesses>
       <apexClass>CommunitiesLandingController</apexClass>
-      <enabled>false</enabled>
+      <enabled>true</enabled>
    </classAccesses>
    <classAccesses>
       <apexClass>CommunitiesLandingController2</apexClass>
