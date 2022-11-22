@@ -734,7 +734,7 @@
    </classAccesses>
    <classAccesses>
       <apexClass>TestDemo46</apexClass>
-      <enabled>false</enabled>
+      <enabled>true</enabled>
    </classAccesses>
    <classAccesses>
       <apexClass>TestDemo47</apexClass>
