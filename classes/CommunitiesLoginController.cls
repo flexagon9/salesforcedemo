@@ -1,5 +1,6 @@
+// 1/20/2025 Demo CHG 1
 /**
- * An apex page controller that exposes the site login functionality. More tests
+ * An apex page controller that exposes the site login functionality
  */
 global with sharing class CommunitiesLoginController {
 
